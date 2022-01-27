@@ -6,7 +6,7 @@
 int main()
 {
     setlocale(LC_CTYPE, "rus");
-    const int n = 14;
+    const int n = 9;
     int* mas;
     int i, k = 0;
     float s = 0; 
